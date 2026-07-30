@@ -256,7 +256,7 @@ nav{
 /* -------------------- */
 
 .newsletter{
-    background:#f7f7f7;
+    background:#faf8f8;
     text-align:center;
     padding:90px 20px;
 }
@@ -270,7 +270,7 @@ nav{
     max-width:600px;
     margin:auto;
     margin-bottom:35px;
-    color:#666;
+    color:#514e4e;
 }
 
 .newsletter form{
@@ -283,24 +283,22 @@ nav{
 .newsletter input{
     width:340px;
     padding:16px;
-    border:1px solid #ddd;
+    border:1px solid #272424;
     font-size:15px;
 }
 
 .newsletter button{
     padding:16px 36px;
-    background:black;
-    color:white;
+    background:rgb(45, 44, 44);
+    color:rgb(252, 252, 252);
     border:none;
     cursor:pointer;
     transition:.3s;
 }
 
 .newsletter button:hover{
-    background:#333;
+    background:#151515;
 }
-
-
 /* -------------------- */
 /* FOOTER */
 /* -------------------- */
@@ -310,7 +308,7 @@ footer{
     grid-template-columns:repeat(3,1fr);
     gap:40px;
     padding:70px 60px;
-    border-top:1px solid #eee;
+    border-top:1px solid #232222;
 }
 
 .footer-column h4{
@@ -322,12 +320,12 @@ footer{
 .footer-column a{
     display:block;
     margin-bottom:12px;
-    color:#666;
+    color:#0b0b0b;
     transition:.3s;
 }
 
 .footer-column a:hover{
-    color:black;
+    color:rgb(22, 22, 22);
 }
 
 
